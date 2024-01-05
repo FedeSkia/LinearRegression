@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LinearRegression.iml" filepath="$PROJECT_DIR$/.idea/LinearRegression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise1/.idea/exercise1.iml" filepath="$PROJECT_DIR$/exercise1/.idea/exercise1.iml" />
     </modules>
   </component>
 </project>
